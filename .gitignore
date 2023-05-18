@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# .idea folder
+.idea
+
+# .iml config file
+FinalProjectEcomMarch22.iml
+
+# target folder
+target
