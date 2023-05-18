@@ -16,7 +16,7 @@ public abstract class BasePage {
         this.page = page;
     }
 
-    public void clickElement(Locator element) {
+    protected void clickElement(Locator element) {
         element.click();
         System.out.println("Clicking on " + element + "...");
     }
